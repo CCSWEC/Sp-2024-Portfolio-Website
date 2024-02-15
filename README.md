@@ -1,6 +1,10 @@
+**PLS COMMENT ON YOUR CODE**
+
 # Sp-2024-Portfolio-Website
 Portfolio website for spring 2024 project
 You will be creating a portfolio website, how the website looks is entirely up to the group to discuss.
+
+I reccomend you create it as a Template, so other members can use it as their portfolio website.
 
 here are some challenges you can attempt (as a group or individuallly reminder that these do not have to be implemented, they are optional if you are looking for a challenge! )
 
