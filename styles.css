@@ -1,1 +1,8 @@
+.heading-skills,
+.heading-education {
+    padding: 10px;
+}
 
+.heading-education {
+    padding-left: 20px;
+}
